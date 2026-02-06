@@ -86,3 +86,4 @@ alias ga 'git add .;git commit --amend --no-edit -a -s'
 alias gcp 'git cherry-pick'
 alias gch 'git checkout'
 alias gl 'git log --oneline -5'
+```
